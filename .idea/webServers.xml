@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ba3430d2-4f79-4434-b9c3-4e64223fadfd" name="HETZNER" url="http://shoppinglist20.s1710456029.student.kwmhgb.at/bookstoreServer/public">
+        <fileTransfer host="shoppinglist20.s1710456029.student.kwmhgb.at" port="222" rootFolder="/usr/home/sstud514/public_html/shoppinglist20/bookstoreServer" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
